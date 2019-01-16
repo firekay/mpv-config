@@ -7,6 +7,3 @@
 [submodule "shaders/mpv-prescalers"]
 	path = shaders/mpv-prescalers
 	url = https://github.com/bjin/mpv-prescalers
-[submodule "mpv_config"]
-	path = mpv_config
-	url = https://github.com/mpv-player/mpv.git
